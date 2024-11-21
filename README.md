@@ -7,7 +7,7 @@ This repository contains a simple Pacman game implemented in Python using the Py
 - **Simple Controls**: Use arrow keys for navigation.  
 - **Winning Goal**: Collect all the dots to win.  
 
-## Known Bug  
+## Bug or boon !!
 There is a known issue in the game:  
 - After losing a life, you can still play without losing further lives, even if caught by a ghost. This allows you to complete the game without additional challenges.  
 
@@ -45,6 +45,10 @@ python pacman.py
 
 ## How to Win  
 Collect all the dots in the maze while avoiding the ghosts. Even with the bug, you can enjoy the thrill of collecting all the dots!  
+
+⚠ Disclaimer
+Do Not Move to the Extreme Left or Right Edges:
+Moving Pacman to the extreme left or right edges of the game may cause unexpected behavior or graphical glitches. Stay within the maze for the best experience.
 
 ## Contributing  
 Feel free to fork the repository, fix the bug, or add new features. Submit a pull request to share your improvements!  
